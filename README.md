@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Expense Chart Component
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Expense Chart Component repository! This intuitive and responsive React.js component allows you to create beautiful and interactive bar charts for your websites, using data fetched from a simple `data.json` file. Whether you're a beginner or an experienced developer, this component is designed to be efficient and user-friendly, making it a breeze for you to visualize your expense data in an attractive way.
 
-## Available Scripts
+## Glimpse
+![component](https://github.com/ghsharma/expense-chart/assets/95496933/5dcbf715-6592-4d36-8c56-7cc92fd5fdb6)
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Simple integration with any React.js project.
+- Fetches expense data from a `data.json` file, making it easy to modify and update your data.
+- Responsively designed to fit all screen sizes and devices.
+- Interactive bar chart with hover effects for a better user experience.
+- Customizable appearance and colors to match your website's theme.
+- Well-documented code, making it easy to understand and extend.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Installation
 
-### `npm test`
+To start using the Expense Chart Component in your React.js project, you can simply install it from npm:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+npm install expense-chart-component
+```
 
-### `npm run build`
+Alternatively, you can clone this repository and include the component directly in your project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Dependencies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This component requires the following dependencies to be installed in your project:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React.js (v16.8 or higher)
+- React-DOM (v16.8 or higher)
+- d3 (v6.0 or higher)
 
-### `npm run eject`
+Make sure you have these dependencies installed before using the component.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+We welcome contributions from the community! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Please make sure to follow our [contribution guidelines](CONTRIBUTING.md).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+We hope you enjoy using the Expense Chart Component in your projects. If you have any questions or need assistance, don't hesitate to reach out. Happy charting!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with ❤️ by [ghsharma](https://github.com/ghsharma)
