@@ -1,38 +1,52 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+body {
+  background-image: url("Dark\ Green\ Modern\ Gradient\ Wave\ Linktree\ Background.png");
+  background-repeat: none;
+  background-size: cover;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  height: 100vh; /* Ensure the container takes up the full height of the viewport */
+  margin: 0; /* Remove default body margin to avoid unexpected offsets */
 }
 
-.App-link {
-  color: #61dafb;
+.headerbox{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(216, 143, 5);
+  padding:0px 20px;
+  border-radius: 10px;
+  color:white;
+  font-weight: lighter;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h2{
+  font-size: 1.3rem;
+}
+
+span{
+  font-size: .7rem;
+}
+
+.barbox{
+
+  margin-top: 10px;
+  border-radius: 10px;
+  background-color: white;
+  padding: 15px;
+}
+
+.detailbox{
+  display: flex;
+  justify-content: space-between;
+}
+
+p{
+  font-weight: bolder;
+  margin-top: 29px;
+  font-size: .8rem;
+}
+
+.span{
+  font-weight:light;
 }
