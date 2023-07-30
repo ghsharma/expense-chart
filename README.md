@@ -3,7 +3,7 @@
 Welcome to the Expense Chart Component repository! This intuitive and responsive React.js component allows you to create beautiful and interactive bar charts for your websites, using data fetched from a simple `data.json` file. Whether you're a beginner or an experienced developer, this component is designed to be efficient and user-friendly, making it a breeze for you to visualize your expense data in an attractive way.
 
 ## Glimpse
-![component](https://github.com/ghsharma/expense-chart/assets/95496933/5dcbf715-6592-4d36-8c56-7cc92fd5fdb6)
+![expense_chart](https://github.com/ghsharma/expense-chart/assets/95496933/d570a82f-fc2f-47ab-9f6a-965a29f1e4d4)
 
 ## Features
 
